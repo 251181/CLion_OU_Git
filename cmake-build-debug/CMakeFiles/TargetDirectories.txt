@@ -1,0 +1,3 @@
+D:/Awykonalne Studia/Oprogramowanie Użytkowe GitHub/CLion_OU_Git/cmake-build-debug/CMakeFiles/CLion_OU_Git.dir
+D:/Awykonalne Studia/Oprogramowanie Użytkowe GitHub/CLion_OU_Git/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Awykonalne Studia/Oprogramowanie Użytkowe GitHub/CLion_OU_Git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
